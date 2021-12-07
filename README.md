@@ -1,5 +1,6 @@
 # SolarPCB
 Created a Printed Circuit Board (PCB) that harvests energy from a solar cell, with the main component being a bq25504 microcontroller that controls the overvoltage and undervoltage for effective charge storage in a 1F supercapacitor. Designed the schematic, layout, and created custom footprints for supercapacitor, switches, and other components.
+
 Schematic:
 
 <img width="600" alt="Screen Shot 2021-12-07 at 11 54 18 AM" src="https://user-images.githubusercontent.com/28752598/145097161-73156087-a2a5-4961-ab08-328471ce8ea5.png">
